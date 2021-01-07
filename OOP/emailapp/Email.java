@@ -109,8 +109,7 @@ public class Email {
 	
 	// Get password
 	public String getPassword() {
-//		return this.password;
-		return "hello";
+		return this.password;
 	}
 	
 	
